@@ -1,8 +1,8 @@
 Algoritmo "L01G"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Professor   : Jailson
+// Descrição   : Algoritmo que lê quatro números inteiros e apresentar o resultado da adição e multiplicação.
+// Autor(a)    : Giovana
 // Data atual  : 13/04/2025
 Var
    // Seção de Declarações das variáveis
